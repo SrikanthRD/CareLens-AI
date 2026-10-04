@@ -100,3 +100,16 @@ streamlit run src/app.py          # UI
 ## License
 
 WIP
+
+## Sample questions
+
+Questions to ask :
+```
+- Select a patient 
+- What medications were prescribed to this patient upon discharge?
+- Can you summarise the last few reports of this patient
+- What liver-related diagnoses are noted in the patient's file?
+- Was the patient admitted urgently or routinely?
+- Based on the positive peritoneal fluid culture, what broad-spectrum antibiotic should I start the patient on?
+- Can you write a Python script to plot this patient's heart rate over time?
+```
