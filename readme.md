@@ -105,7 +105,7 @@ WIP
 
 Questions to ask :
 ```
-- Select a patient 
+Select a patient 
 - What medications were prescribed to this patient upon discharge?
 - Can you summarise the last few reports of this patient
 - What liver-related diagnoses are noted in the patient's file?
